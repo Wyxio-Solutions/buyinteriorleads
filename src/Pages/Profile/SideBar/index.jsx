@@ -3,7 +3,7 @@ import './index.css';
 
 const Sidebar = ({ setActivePage, activePage }) => (
     <aside className="sidebar">
-        <div className="logo">logo</div>
+        <img src="./logoIM.jpeg" alt="logo" className="logo" />
         <nav className="nav-links-Profile">
             <a
                 href="#"

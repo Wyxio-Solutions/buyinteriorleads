@@ -7,9 +7,12 @@
     padding-right: 4rem;
 
 }
-/* .sub-conatiner-abt{
-    width: 70%;
-} */
+ .sub-conatiner-abt{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding-top: 50px;
+} 
 .heading-container{
     width: 70%;
 }

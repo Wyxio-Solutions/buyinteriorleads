@@ -16,7 +16,7 @@ const Index = () => {
                     <div className='heading-container'>
                         <h1 className='abt-heading'>Find Exclusive Interior Design Leads & Grow Your Business!</h1>
                     </div>
-                    <h2 className='abt-subheading'>Join thousands of architects and interior designers accessing verified, location-based leads.</h2>
+                   
                 </div>
                 <div className='video-conatiner'>
                     <video 
